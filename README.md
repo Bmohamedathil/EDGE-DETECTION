@@ -108,21 +108,22 @@ plt.title("Canny Edge Detector")
 plt.axis("off")
 plt.show()
 ```
-## Output:
+## Output :
 ### SOBEL EDGE DETECTOR
 i.) Sobel X axis:
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/005ecb9d-59e4-436c-a513-7eaec32abb22)
 
 ii.) Sobel Y axis:
-![alt text](image-1.png)
+![image-1](https://github.com/user-attachments/assets/85ac0506-98ef-4a0b-b7f5-92dcbbcbc7ef)
 
 iii.) Sobel XY axis:
-![alt text](image-2.png)
+![image-2](https://github.com/user-attachments/assets/f06b005b-d044-4b67-a37a-52177aa40a31)
 
 ### LAPLACIAN EDGE DETECTOR
-![alt text](image-3.png)
+![image-3](https://github.com/user-attachments/assets/38099356-47a3-4d70-8d2b-1ee3f18d2555)
 
 ### CANNY EDGE DETECTOR
-![alt text](image-4.png)
-## Result:
+![image-4](https://github.com/user-attachments/assets/4ead313d-8503-4b94-b505-c11239ac658a)
+
+## Result :
 Thus the edges are detected and executed using Sobel, Laplacian, and Canny edge detectors successfully.
