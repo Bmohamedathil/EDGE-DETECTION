@@ -110,13 +110,13 @@ plt.show()
 ```
 ## Output :
 ### SOBEL EDGE DETECTOR
-i.) Sobel X axis:
+i) Sobel X axis:
 ![image](https://github.com/user-attachments/assets/005ecb9d-59e4-436c-a513-7eaec32abb22)
 
-ii.) Sobel Y axis:
+ii) Sobel Y axis:
 ![image-1](https://github.com/user-attachments/assets/85ac0506-98ef-4a0b-b7f5-92dcbbcbc7ef)
 
-iii.) Sobel XY axis:
+iii) Sobel XY axis:
 ![image-2](https://github.com/user-attachments/assets/f06b005b-d044-4b67-a37a-52177aa40a31)
 
 ### LAPLACIAN EDGE DETECTOR
